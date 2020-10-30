@@ -1,0 +1,13 @@
+{
+    "name": "a.asadi/mongo",
+    "description": "This library will generate Query Builder for MongoDB.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "a.asadi",
+            "email": "amirasadiweb@gmail.com"
+        }
+    ],
+    "require": {}
+}
